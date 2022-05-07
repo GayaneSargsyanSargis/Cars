@@ -1,0 +1,14 @@
+{
+  "$type": "System.Collections.Generic.KeyValuePair`2[[System.Int32, mscorlib],[Cars.Car, Cars]][], mscorlib",
+  "$values": [
+    {
+      "Key": 1,
+      "Value": {
+        "$type": "Cars.Sedan, Cars",
+        "NumberSets": 5,
+        "Mark": 2,
+        "Model": 1
+      }
+    }
+  ]
+}
